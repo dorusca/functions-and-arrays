@@ -1,0 +1,15 @@
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.csproj.AssemblyReference.cache
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.AssemblyInfoInputs.cache
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.AssemblyInfo.cs
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.csproj.CoreCompileInputs.cache
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\bin\Debug\net6.0\Example 004.exe
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\bin\Debug\net6.0\Example 004.deps.json
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\bin\Debug\net6.0\Example 004.runtimeconfig.json
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\bin\Debug\net6.0\Example 004.dll
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\bin\Debug\net6.0\Example 004.pdb
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.dll
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\refint\Example 004.dll
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.pdb
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\Example 004.genruntimeconfig.cache
+D:\Desktop\seminarC#\leson2\Exzamples\Example 004\obj\Debug\net6.0\ref\Example 004.dll
